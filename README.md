@@ -1,2 +1,3 @@
 # RepoTrial1
-The Beginning
+print("Hello World")
+print("Lets Go")
